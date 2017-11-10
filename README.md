@@ -1,2 +1,2 @@
 # Fruit-Soup
-Fruit Soup bot/update thing :>
+If I figure out how to code, this would be useful
